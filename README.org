@@ -1,3 +1,7 @@
+This is a mirror of [[https://ccrma.stanford.edu/software/clm/][Common Lisp Music]] version [[https://ccrma.stanford.edu/software/clm/clm-5.tar.gz][5]]
+
+The contents of the original README.clm file are below:
+
 CLM
 
 
